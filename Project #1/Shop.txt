@@ -1,5 +1,5 @@
                            Практическая работа.
-Объект тестирования:Магазин кальянов <a href="https://mattpear.co/">MattPear</a>
+Объект тестирования:Магазин кальянов https://mattpear.co/
 
 Что в нем тестировалось?
 Форма регистрации;
@@ -39,5 +39,5 @@ Qa Trainee -Ильченко С.О
 Скриншоты тест кейсов из TestIT.
 
 Ссылка на гугл таблицу:
-<a href="https://docs.google.com/spreadsheets/d/1T9Z67npHWKv1zCvRdTAGlBSGMaFxrWuaxvgJrxsOFFs/edit#gid=0">MattPear</a>
+https://docs.google.com/spreadsheets/d/1T9Z67npHWKv1zCvRdTAGlBSGMaFxrWuaxvgJrxsOFFs/edit#gid=0
 
