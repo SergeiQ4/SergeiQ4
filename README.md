@@ -7,7 +7,7 @@
 Я тестировщик, интересно Web, Mobile, Load Testing.
 Здесь я буду публиковать свои работы в интересующих направлениях тестирования, тестовую документацию с учебных проектов, для отслеживания личностного роста как специалиста по тестированию. Добро пожаловать.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@sergei-ilchenko-blue?style=flat&logo=LinkedIn&logoColor=white)](https://https://www.linkedin.com/in/sergei-ilchenko/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.qatester714@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.qatester714@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
