@@ -9,6 +9,9 @@
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:s.qatester714@gmail.com)
 
+## Моё резюме
+[Link to my CV] (https://drive.google.com/drive/my-drive)
+
 ---
 ### 🤝 Социальные сети:
 
